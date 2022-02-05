@@ -1,5 +1,7 @@
 # Roam Research open random block
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iY1gPBmWELc/0.jpg)](https://www.youtube.com/watch?v=iY1gPBmWELc)
+
 ```clojure
 (defn get-random-block-id []
   (let
